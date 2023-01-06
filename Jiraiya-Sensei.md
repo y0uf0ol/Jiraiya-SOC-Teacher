@@ -41,12 +41,13 @@ A glince of something practical.
 - To make learning a new Query Language a bit easier, here is a Chear Sheet that should help you on the way
     - [Kusto Cheat Sheet](https://www.mbsecure.nl/blog/2019/12/kql-cheat-sheet "Kusto Cheat Sheet")
 
-**Mastering the Rasengang was hard for Naruto and he trained a lot so we will too**
+**Mastering the Rasengang was hard for <span style="color:orange">Naruto</span> and he trained a lot so we will too**
+
 [Setup a free Azure Data Explorer](https://aka.ms/kustofree "Setup a free Azure Data Explorer")
-    - Sign in and create a free Cluster
-    - Go to Data and Ingest Data
-    - Click through the creation process and upload the .csv from [here](https://github.com/y0uf0ol/Jiraiya-SOC-Teacher/blob/main/Training%20Resources/Week%202/ToDo's%20Week%202.md "here")
-    - Follow the ToDo's in Week 2
+- Sign in and create a free Cluster
+- Go to Data and Ingest Data
+- Click through the creation process and upload the .csv from [here](https://github.com/y0uf0ol/Jiraiya-SOC-Teacher/blob/main/Training%20Resources/Week%202/ToDo's%20Week%202.md "here")
+- Follow the ToDo's in Week 2
 
 # Week 3
 
