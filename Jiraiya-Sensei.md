@@ -41,7 +41,7 @@ A glince of something practical.
 - To make learning a new Query Language a bit easier, here is a Chear Sheet that should help you on the way
     - [Kusto Cheat Sheet](https://www.mbsecure.nl/blog/2019/12/kql-cheat-sheet "Kusto Cheat Sheet")
 
-**Mastering the Rasengang was hard for <span style="color:orange">Naruto</span> and he trained a lot so we will too**
+**Mastering the Rasengan was hard for Naruto and he trained a lot so we will too**
 
 [Setup a free Azure Data Explorer](https://aka.ms/kustofree "Setup a free Azure Data Explorer")
 - Sign in and create a free Cluster
