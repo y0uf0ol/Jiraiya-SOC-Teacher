@@ -11,7 +11,7 @@ If you are not in my SOC you probably won't find this super helpful but use it a
 
     Basic Security Refresher:
 
-        Professor Messer Sec+ Guide[https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/]
+        [Professor Messer Sec+ Guide](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/ "Professor Messer Sec+ Guide")
 
         This is a good refresher in all the Security related Topics that will potential pop up. And as a bonus, it will prepare you very well for the Exam too.
 
@@ -19,15 +19,15 @@ If you are not in my SOC you probably won't find this super helpful but use it a
 
     Refresher on Defender
 
-         Defender for Endpoint Ninja Training[https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647#_Toc45281200]
+         [Defender for Endpoint Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647#_Toc45281200 "Defender for Endpoint Ninja Training")
 
          Security Operations Fundamentals is important for us to start. Work through it and learn it to love, you will spend a good amount of time in that portal :)
 
          Key Points for the first week:
-            1. get started and get comfortable
-            1. checkout the the team :)
-            1. refresh or learn a thing or two with the provided content
-            1. and be excited for week 2
+            - get started and get comfortable
+            - checkout the the team :)
+            - refresh or learn a thing or two with the provided content
+            - and be excited for week 2
 
     
 
