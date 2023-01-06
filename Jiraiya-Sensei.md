@@ -36,12 +36,16 @@ A glince of something practical.
 
 **KQL**
 
-
-- [Write your first Query](https://learn.microsoft.com/en-us/training/modules/write-first-query-kusto-query-language/ "Write your first Query")
+- Learning Kusto
+    - [Write your first Query](https://learn.microsoft.com/en-us/training/modules/write-first-query-kusto-query-language/ "Write your first Query")
 - To make learning a new Query Language a bit easier, here is a Chear Sheet that should help you on the way
     - [Kusto Cheat Sheet](https://www.mbsecure.nl/blog/2019/12/kql-cheat-sheet "Kusto Cheat Sheet")
 
-
+**Training**
+[Setup a free Azure Data Explorer](https://aka.ms/kustofree "Setup a free Azure Data Explorer")
+    - Sign in and create a free Cluster
+    - Go to Data and Ingest Data
+    - Click through the creation process and upload the .csv from [here]
 
 # Week 3
 
