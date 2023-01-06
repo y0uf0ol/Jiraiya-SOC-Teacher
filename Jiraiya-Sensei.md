@@ -9,7 +9,7 @@ If you are not in my SOC you probably won't find this super helpful but use it a
 Bone dry Theory
 This will suck but, will help us both in the long run.
 
-Basic Security Refresher:
+**Basic Security Refresher:**
 
 [Professor Messer Sec+ Guide](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/ "Professor Messer Sec+ Guide")
 
@@ -17,7 +17,7 @@ This is a good refresher in all the Security related Topics that will potential 
 
 And don' get this wrong, you don't have to finsish this in week 1, watch it through the weeks progress. 
 
-Refresher on Defender
+**Refresher on Defender**
 
 [Defender for Endpoint Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647#_Toc45281200 "Defender for Endpoint Ninja Training")
 
@@ -32,6 +32,15 @@ Key Points for the first week:
     
 
 # Week 2
+A glince of something practical.
+
+**KQL**
+
+
+- [Write your first Query](https://learn.microsoft.com/en-us/training/modules/write-first-query-kusto-query-language/ "Write your first Query")
+- To make learning a new Query Language a bit easier, here is a Chear Sheet that should help you on the way
+    - [Kusto Cheat Sheet](https://www.mbsecure.nl/blog/2019/12/kql-cheat-sheet "Kusto Cheat Sheet")
+
 
 
 # Week 3
