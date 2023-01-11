@@ -16,18 +16,21 @@ This will suck but, will help us both in the long run.
 [Professor Messer Sec+ Guide](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/ "Professor Messer Sec+ Guide")
 
 This is a good refresher in all the Security related Topics that will potential pop up. And as a bonus, it will prepare you very well for the Exam too.
-
 And don't get this wrong, you don't have to finsish this in week 1, watch it through the weeks progress. 
+
+**TryHackMe**
+
+- Create a Free [TryHackMe](https://tryhackme.com/ "TryHackMe") Account
+
+- Work through this [Training](https://tryhackme.com/room/jrsecanalystintrouxo "Training")
 
 **LetsDefend**
 
-Create a Free [LetsDefend](https://app.letsdefend.io/homepage "LetsDefend") Account
+- Create a Free [LetsDefend](https://app.letsdefend.io/homepage "LetsDefend") Account
 
-Work through this [Training](https://app.letsdefend.io/training/lessons/soc-fundamentals "Training")
-This is for getting the right Terminology and Wording for other Stuff to come.
+- Work through this [Training](https://app.letsdefend.io/training/lessons/soc-fundamentals "Training") This is for getting the right Terminology and Wording for other Stuff to come.
 
-Work through this [Training](https://app.letsdefend.io/training/lessons/it-security-basis-for-corporates "Training")
-If you think you need a refreseher on general Security Stuff.
+- Work through this [Training](https://app.letsdefend.io/training/lessons/it-security-basis-for-corporates "Training") If you think you need a refreseher on general Security Stuff.
 
 **Refresher on Defender**
 
@@ -61,9 +64,14 @@ now that we know how to write a Kusto query, lets see what an ideal written quer
 - Click through the creation process and upload the .csv from [here](https://github.com/y0uf0ol/Jiraiya-SOC-Teacher/blob/main/Training%20Resources/Week%202/ToDo's%20Week%202.md "here")
 - Follow the ToDo's in Week 2
 
+**Refresh on Windows**
+
+Once again we got to my favorite site LetsDefend. [Here](https://app.letsdefend.io/training/lessons/windows-fundamentals "Here") a very good refresher on Basic Windows Knowledge.
+
+
 Key Points second Week:
 - get used to Kusto
-- let the flow go
+- Refresh your Windows Knowledge
 - learn to use Data Explorer
 - save the Cheat Sheet 
 - progress with Sec +
@@ -75,14 +83,10 @@ The Defender Ninja Week Number 1
 **Defender for Identity**
 **Defender for Endpoint**
 
-
-
-    
 # Week 4
 Training Szenario Number 1
 
 Hit me up, when you are ready for this. You will get a Login for my testing Env.
-
 
 # Week 5
 Analyst Workflow and Mindset
