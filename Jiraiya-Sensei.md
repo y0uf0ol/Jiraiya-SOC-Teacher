@@ -5,6 +5,8 @@
 
 If you are not in my SOC you probably won't find this super helpful but use it anyway :)
 
+# This is Work in progress
+
 # Week 1
 Bone dry Theory
 This will suck but, will help us both in the long run.
@@ -15,7 +17,17 @@ This will suck but, will help us both in the long run.
 
 This is a good refresher in all the Security related Topics that will potential pop up. And as a bonus, it will prepare you very well for the Exam too.
 
-And don' get this wrong, you don't have to finsish this in week 1, watch it through the weeks progress. 
+And don't get this wrong, you don't have to finsish this in week 1, watch it through the weeks progress. 
+
+**LetsDefend**
+
+Create a Free [LetsDefend](https://app.letsdefend.io/homepage "LetsDefend") Account
+
+Work through this [Training](https://app.letsdefend.io/training/lessons/soc-fundamentals "Training")
+This is for getting the right Terminology and Wording for other Stuff to come.
+
+Work through this [Training](https://app.letsdefend.io/training/lessons/it-security-basis-for-corporates "Training")
+If you think you need a refreseher on general Security Stuff.
 
 **Refresher on Defender**
 
@@ -41,6 +53,8 @@ A glince of something practical.
 
 **Mastering the Rasengan was hard for Naruto and he trained a lot so we will too**
 
+now that we know how to write a Kusto query, lets see what an ideal written query should look like, check [here](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/query-optimization?wt.mc_id=SecNinja_sentinelninjatraining "here")
+
 [Setup a free Azure Data Explorer](https://aka.ms/kustofree "Setup a free Azure Data Explorer")
 - Sign in and create a free Cluster
 - Go to Data and Ingest Data
@@ -51,12 +65,16 @@ Key Points second Week:
 - get used to Kusto
 - let the flow go
 - learn to use Data Explorer
-- save the 
+- save the Cheat Sheet 
+- progress with Sec +
 
 # Week 3
-now that we know how to write a Kusto query, lets see what an ideal written query should look like, check [here](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/query-optimization?wt.mc_id=SecNinja_sentinelninjatraining "here")
+The Defender Week 
 
-most common case [prob](https://learn.microsoft.com/de-de/training/modules/protect-identities-with-aad-idp/ "prob")
+**Defender for Office 365**
+**Defender for Identity**
+**Defender for Endpoint**
+
 
 
     
