@@ -69,7 +69,7 @@ Key Points second Week:
 - progress with Sec +
 
 # Week 3
-The Defender Week 
+The Defender Ninja Week Number 1
 
 **Defender for Office 365**
 **Defender for Identity**
@@ -85,21 +85,25 @@ Hit me up, when you are ready for this. You will get a Login for my testing Env.
 
 
 # Week 5
-TBD
+Analyst Workflow and Mindset
 # Week 6
-TBD
+Correlating Sources
 # Week 7
-TBD
+The Defender Ninja Week Number 2
+
+**Defender for Office 365**
+**Defender for Identity**
+**Defender for Endpoint**
 # Week 8
-TBD
+Sentinel Week
 # Week 9
 Training Szenario Number 2
 
 Hit me up, when you are ready for this. You will get a Login for my testing Env.
 # Week 10
-TBD
+SC-200 Exam Prep Week
 # Week 11
-TBD
+SC-200 Exam Week
 # Week 12
 Training Szenario Number 3
 
