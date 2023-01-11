@@ -1,4 +1,4 @@
-#  Jiraiya SOC Teacher
+#  Jiraiya SOC Sensei
 
 <img src="https://static.wikia.nocookie.net/denaruto3/images/6/66/Jiraiya.png/revision/latest?cb=20100821231007&path-prefix=de"/>
 
@@ -29,8 +29,6 @@ Key Points for the first week:
 - refresh or learn a thing or two with the provided content
 - and be excited for week 2
 
-    
-
 # Week 2
 A glince of something practical.
 
@@ -49,16 +47,46 @@ A glince of something practical.
 - Click through the creation process and upload the .csv from [here](https://github.com/y0uf0ol/Jiraiya-SOC-Teacher/blob/main/Training%20Resources/Week%202/ToDo's%20Week%202.md "here")
 - Follow the ToDo's in Week 2
 
+Key Points second Week:
+- get used to Kusto
+- let the flow go
+- learn to use Data Explorer
+- save the 
+
 # Week 3
+now that we know how to write a Kusto query, lets see what an ideal written query should look like, check [here](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/query-optimization?wt.mc_id=SecNinja_sentinelninjatraining "here")
+
+most common case [prob](https://learn.microsoft.com/de-de/training/modules/protect-identities-with-aad-idp/ "prob")
+
 
     
 # Week 4
+Training Szenario Number 1
+
+Hit me up, when you are ready for this. You will get a Login for my testing Env.
+
+
 # Week 5
+TBD
 # Week 6
+TBD
 # Week 7
+TBD
 # Week 8
+TBD
 # Week 9
+Training Szenario Number 2
+
+Hit me up, when you are ready for this. You will get a Login for my testing Env.
 # Week 10
+TBD
 # Week 11
+TBD
 # Week 12
+Training Szenario Number 3
+
+Hit me up, when you are ready for this. You will get a Login for my testing Env.
 # Testing your Knowledge
+End Challenge
+
+Hit me up, when you are ready for this. You will get a Login for my testing Env.
