@@ -78,7 +78,7 @@ The Defender Ninja Week Number 1
 - Security Operations Fundamentals is important for us to start. Work through it and learn it to love, you will spend a good amount of time in that portal :)
 
 **Azure AD Identity Protection**
-- Important Part here is to know what it does and what the license differences are:
+- Important Part here is to know what it is,license differences are and operate it:
     - [What is Identity Protection?](https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection "What is Identity Protection?")
     - [How To: Investigate risk](https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-investigate-risk "How To: Investigate risk")
     - [Remediate risks and unblock users](https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-remediate-unblock "Remediate risks and unblock users")
