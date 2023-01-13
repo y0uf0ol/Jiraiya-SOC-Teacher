@@ -13,7 +13,7 @@ This will suck but, will help us both in the long run.
 [Professor Messer Sec+ Guide](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/ "Professor Messer Sec+ Guide")
 
 This is a good refresher in all the Security related Topics that will potential pop up. And as a bonus, it will prepare you very well for the Exam too.
-And don't get this wrong, you don't have to finsish this in week 1, watch it through the weeks progress. 
+And don't get this wrong, you don't have to finish this in week 1, watch it through the weeks progress. 
 
 **TryHackMe**
 - Create a Free [TryHackMe](https://tryhackme.com/ "TryHackMe") Account
@@ -22,7 +22,7 @@ And don't get this wrong, you don't have to finsish this in week 1, watch it thr
 **LetsDefend**
 - Create a Free [LetsDefend](https://app.letsdefend.io/homepage "LetsDefend") Account
 - Work through this [Training](https://app.letsdefend.io/training/lessons/soc-fundamentals "Training") This is for getting the right Terminology and Wording for other Stuff to come.
-- Work through this [Training](https://app.letsdefend.io/training/lessons/it-security-basis-for-corporates "Training") If you think you need a refreseher on general Security Stuff.
+- Work through this [Training](https://app.letsdefend.io/training/lessons/it-security-basis-for-corporates "Training") If you think you need a refresher on general Security Stuff.
 
 
 ## Key Points of the Week:
@@ -90,7 +90,7 @@ The Defender Ninja Week Number 1
 - Learning about Azure AD Identity Protection
 
 # Week 4
-Training Szenario Number 1
+Training Scenario Number 1
 
 Hit me up, when you are ready for this. You will get a Login for my testing Env. (INTERNS ONLY SRY)
 
@@ -141,7 +141,7 @@ Analyst Workflow and Mindset
 
 ## Key Points of the Week:
 # Week 9
-Training Szenario Number 2
+Training Scenario Number 2
 
 Hit me up, when you are ready for this. You will get a Login for my testing Env.(INTERNS ONLY SRY)
 
@@ -161,7 +161,7 @@ SC-200 Exam Week
 - SLAY THE EXAM
 
 # Week 12
-Training Szenario Number 3
+Training Scenario Number 3
 
 Hit me up, when you are ready for this. You will get a Login for my testing Env.(INTERNS ONLY SRY)
 
