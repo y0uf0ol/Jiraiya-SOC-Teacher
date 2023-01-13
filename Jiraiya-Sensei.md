@@ -32,13 +32,8 @@ And don't get this wrong, you don't have to finsish this in week 1, watch it thr
 
 - Work through this [Training](https://app.letsdefend.io/training/lessons/it-security-basis-for-corporates "Training") If you think you need a refreseher on general Security Stuff.
 
-**Refresher on Defender**
 
-[Defender for Endpoint Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647#_Toc45281200 "Defender for Endpoint Ninja Training")
-
-Security Operations Fundamentals is important for us to start. Work through it and learn it to love, you will spend a good amount of time in that portal :)
-
-Key Points for the first week:
+## Key Points of the Week:
 - get started and get comfortable
 - checkout the the team :)
 - refresh or learn a thing or two with the provided content
@@ -69,7 +64,7 @@ now that we know how to write a Kusto query, lets see what an ideal written quer
 Once again we got to my favorite site LetsDefend. [Here](https://app.letsdefend.io/training/lessons/windows-fundamentals "Here") a very good refresher on Basic Windows Knowledge.
 
 
-Key Points second Week:
+## Key Points of the Week:
 - get used to Kusto
 - Refresh your Windows Knowledge
 - learn to use Data Explorer
@@ -80,38 +75,81 @@ Key Points second Week:
 The Defender Ninja Week Number 1
 
 **Defender for Office 365**
+- [Defender for Office 365 Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/become-a-microsoft-defender-for-office-365-ninja-june-2022/ba-p/2187392 "Defender for Office 365 Ninja Training")
+- The Fundamentals Part is the Important one for this Week
 **Defender for Identity**
+- [Defender for Identity Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-identity-ninja-training/ba-p/2117904 "Defender for Identity Ninja Training")
+- The Fundamentals Part is the Important one for this Week
 **Defender for Endpoint**
+- [Defender for Endpoint Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647#_Toc45281200 "Defender for Endpoint Ninja Training")
+- Security Operations Fundamentals is important for us to start. Work through it and learn it to love, you will spend a good amount of time in that portal :)
+**Azure AD Identity Protection**
+- Important Part here is to know what it does and what the license differences are:
+    - [What is Identity Protection?](https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection "What is Identity Protection?")
+    - [How To: Investigate risk](https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-investigate-risk "How To: Investigate risk")
+    - [Remediate risks and unblock users](https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-remediate-unblock "Remediate risks and unblock users")
+
+
+## Key Points of the Week:
+- Learning about all Defender Products
+- Learning how to do basic Operations 
+- Learning about Azure AD Identity Protection
 
 # Week 4
 Training Szenario Number 1
 
 Hit me up, when you are ready for this. You will get a Login for my testing Env.
 
+
+## Key Points of the Week:
+
 # Week 5
-Analyst Workflow and Mindset
+Sentinel Week
+
+## Key Points of the Week:
+
 # Week 6
-Correlating Sources
+Networking Crash Course
+
+## Key Points of the Week:
+
 # Week 7
 The Defender Ninja Week Number 2
 
 **Defender for Office 365**
 **Defender for Identity**
 **Defender for Endpoint**
+
+## Key Points of the Week:
+
 # Week 8
-Sentinel Week
+Analyst Workflow and Mindset
+
+## Key Points of the Week:
 # Week 9
 Training Szenario Number 2
 
 Hit me up, when you are ready for this. You will get a Login for my testing Env.
+
+
+## Key Points of the Week:
 # Week 10
 SC-200 Exam Prep Week
+
+## Key Points of the Week:
+
 # Week 11
 SC-200 Exam Week
+
+## Key Points of the Week:
+
 # Week 12
 Training Szenario Number 3
 
 Hit me up, when you are ready for this. You will get a Login for my testing Env.
+
+## Key Points of the Week:
+
 # Testing your Knowledge
 End Challenge
 
