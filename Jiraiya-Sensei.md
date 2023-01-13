@@ -108,15 +108,18 @@ Sentinel Week
 Networking Crash Course
 
 **TryHackMe does have great Content on Networking:**
-    - [What is Networking?](https://tryhackme.com/room/whatisnetworking "What is Networking?")
-    - [Introductory Networking](https://tryhackme.com/room/introtonetworking "Introductory Networking")
-    - [Intro to LAN](https://tryhackme.com/room/introtolan "Intro to LAN")
-    - [Nmap](https://tryhackme.com/room/furthernmap "Nmap")
-    - [Traffic Analysis Essentials](https://tryhackme.com/room/trafficanalysisessentials "Traffic Analysis Essentials")
-    - [Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics "Wireshark: The Basics")
+
+- [What is Networking?](https://tryhackme.com/room/whatisnetworking "What is Networking?")
+- [Introductory Networking](https://tryhackme.com/room/introtonetworking "Introductory Networking")
+- [Intro to LAN](https://tryhackme.com/room/introtolan "Intro to LAN")
+- [Nmap](https://tryhackme.com/room/furthernmap "Nmap")
+- [Traffic Analysis Essentials](https://tryhackme.com/room/trafficanalysisessentials "Traffic Analysis Essentials")
+- [Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics "Wireshark: The Basics")
+
 
 **Bonus**
-    - [Nmap Training](https://tryhackme.com/room/nmap01 "Nmap Training")
+
+- [Nmap Training](https://tryhackme.com/room/nmap01 "Nmap Training")
 
 
 ## Key Points of the Week:
