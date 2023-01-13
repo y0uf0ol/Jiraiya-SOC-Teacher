@@ -3,8 +3,6 @@
 <img src="https://static.wikia.nocookie.net/denaruto3/images/6/66/Jiraiya.png/revision/latest?cb=20100821231007&path-prefix=de"/>
 
 
-If you are not in my SOC you probably won't find this super helpful but use it anyway :)
-
 # This is Work in progress
 
 # Week 1
@@ -12,24 +10,18 @@ Bone dry Theory
 This will suck but, will help us both in the long run.
 
 **Basic Security Refresher:**
-
 [Professor Messer Sec+ Guide](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/ "Professor Messer Sec+ Guide")
 
 This is a good refresher in all the Security related Topics that will potential pop up. And as a bonus, it will prepare you very well for the Exam too.
 And don't get this wrong, you don't have to finsish this in week 1, watch it through the weeks progress. 
 
 **TryHackMe**
-
 - Create a Free [TryHackMe](https://tryhackme.com/ "TryHackMe") Account
-
 - Work through this [Training](https://tryhackme.com/room/jrsecanalystintrouxo "Training")
 
 **LetsDefend**
-
 - Create a Free [LetsDefend](https://app.letsdefend.io/homepage "LetsDefend") Account
-
 - Work through this [Training](https://app.letsdefend.io/training/lessons/soc-fundamentals "Training") This is for getting the right Terminology and Wording for other Stuff to come.
-
 - Work through this [Training](https://app.letsdefend.io/training/lessons/it-security-basis-for-corporates "Training") If you think you need a refreseher on general Security Stuff.
 
 
@@ -43,15 +35,13 @@ And don't get this wrong, you don't have to finsish this in week 1, watch it thr
 A glince of something practical.
 
 **KQL**
-
 - Learning Kusto
     - [Write your first Query](https://learn.microsoft.com/en-us/training/modules/write-first-query-kusto-query-language/ "Write your first Query")
 - To make learning a new Query Language a bit easier, here is a Cheat Sheet that should help you on the way
     - [Kusto Cheat Sheet](https://www.mbsecure.nl/blog/2019/12/kql-cheat-sheet "Kusto Cheat Sheet")
 
 **Mastering the Rasengan was hard for Naruto and he trained a lot so we will too**
-
-now that we know how to write a Kusto query, lets see what an ideal written query should look like, check [here](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/query-optimization?wt.mc_id=SecNinja_sentinelninjatraining "here")
+now that we know how to write a Kusto query, lets see what an ideal written query should look like, check [here](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/best-practices"here")
 
 [Setup a free Azure Data Explorer](https://aka.ms/kustofree "Setup a free Azure Data Explorer")
 - Sign in and create a free Cluster
@@ -60,9 +50,10 @@ now that we know how to write a Kusto query, lets see what an ideal written quer
 - Follow the ToDo's in Week 2
 
 **Refresh on Windows**
-
 Once again we got to my favorite site LetsDefend. [Here](https://app.letsdefend.io/training/lessons/windows-fundamentals "Here") a very good refresher on Basic Windows Knowledge.
 
+**Bonus**
+[Phishing Email Analysis](https://app.letsdefend.io/training/lessons/phishing-email-analysis "Phishing Email Analysis")
 
 ## Key Points of the Week:
 - get used to Kusto
@@ -109,12 +100,29 @@ Hit me up, when you are ready for this. You will get a Login for my testing Env.
 # Week 5
 Sentinel Week
 
+
+
 ## Key Points of the Week:
 
 # Week 6
 Networking Crash Course
 
+**TryHackMe does have great Content on Networking:**
+    - [What is Networking?](https://tryhackme.com/room/whatisnetworking "What is Networking?")
+    - [Introductory Networking](https://tryhackme.com/room/introtonetworking "Introductory Networking")
+    - [Intro to LAN](https://tryhackme.com/room/introtolan "Intro to LAN")
+    - [Nmap](https://tryhackme.com/room/furthernmap "Nmap")
+    - [Traffic Analysis Essentials](https://tryhackme.com/room/trafficanalysisessentials "Traffic Analysis Essentials")
+    - [Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics "Wireshark: The Basics")
+
+**Bonus**
+    - [Nmap Training](https://tryhackme.com/room/nmap01 "Nmap Training")
+
+
 ## Key Points of the Week:
+- Learning about Networking
+- Learn to use Wireshark
+- Learn to use Nmap
 
 # Week 7
 The Defender Ninja Week Number 2
@@ -144,7 +152,10 @@ SC-200 Exam Prep Week
 # Week 11
 SC-200 Exam Week
 
+## GOOD LUCK
+
 ## Key Points of the Week:
+- SLAY THE EXAM
 
 # Week 12
 Training Szenario Number 3
