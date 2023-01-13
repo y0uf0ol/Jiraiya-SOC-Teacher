@@ -77,12 +77,15 @@ The Defender Ninja Week Number 1
 **Defender for Office 365**
 - [Defender for Office 365 Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/become-a-microsoft-defender-for-office-365-ninja-june-2022/ba-p/2187392 "Defender for Office 365 Ninja Training")
 - The Fundamentals Part is the Important one for this Week
+
 **Defender for Identity**
 - [Defender for Identity Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-identity-ninja-training/ba-p/2117904 "Defender for Identity Ninja Training")
 - The Fundamentals Part is the Important one for this Week
+
 **Defender for Endpoint**
 - [Defender for Endpoint Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647#_Toc45281200 "Defender for Endpoint Ninja Training")
 - Security Operations Fundamentals is important for us to start. Work through it and learn it to love, you will spend a good amount of time in that portal :)
+
 **Azure AD Identity Protection**
 - Important Part here is to know what it does and what the license differences are:
     - [What is Identity Protection?](https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection "What is Identity Protection?")
