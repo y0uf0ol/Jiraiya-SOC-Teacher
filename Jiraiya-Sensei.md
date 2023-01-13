@@ -92,7 +92,7 @@ The Defender Ninja Week Number 1
 # Week 4
 Training Szenario Number 1
 
-Hit me up, when you are ready for this. You will get a Login for my testing Env.
+Hit me up, when you are ready for this. You will get a Login for my testing Env. (INTERNS ONLY SRY)
 
 
 ## Key Points of the Week:
@@ -143,7 +143,7 @@ Analyst Workflow and Mindset
 # Week 9
 Training Szenario Number 2
 
-Hit me up, when you are ready for this. You will get a Login for my testing Env.
+Hit me up, when you are ready for this. You will get a Login for my testing Env.(INTERNS ONLY SRY)
 
 
 ## Key Points of the Week:
@@ -163,11 +163,11 @@ SC-200 Exam Week
 # Week 12
 Training Szenario Number 3
 
-Hit me up, when you are ready for this. You will get a Login for my testing Env.
+Hit me up, when you are ready for this. You will get a Login for my testing Env.(INTERNS ONLY SRY)
 
 ## Key Points of the Week:
 
 # Testing your Knowledge
 End Challenge
 
-Hit me up, when you are ready for this. You will get a Login for my testing Env.
+Hit me up, when you are ready for this. You will get a Login for my testing Env.(INTERNS ONLY SRY)
