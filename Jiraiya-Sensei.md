@@ -100,6 +100,7 @@ Hit me up, when you are ready for this. You will get a Login for my testing Env.
 # Week 5
 Sentinel Week
 
+Microsofts Cloud Native SIEM/SOAR
 
 
 ## Key Points of the Week:
@@ -148,12 +149,15 @@ Hit me up, when you are ready for this. You will get a Login for my testing Env.
 
 ## Key Points of the Week:
 # Week 10
-SC-200 Exam Prep Week
+[SC-200 Exam Prep Week](https://learn.microsoft.com/de-de/certifications/exams/sc-200 'SC-200 Exam Prep Week')
+
+
 
 ## Key Points of the Week:
-
+- Follow the Learningpath
+- 
 # Week 11
-SC-200 Exam Week
+[SC-200 Exam Week](https://learn.microsoft.com/de-de/certifications/exams/sc-200 'SC-200 Exam Week')
 
 ## GOOD LUCK
 
