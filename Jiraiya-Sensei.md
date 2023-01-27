@@ -41,7 +41,7 @@ A glince of something practical.
     - [Kusto Cheat Sheet](https://www.mbsecure.nl/blog/2019/12/kql-cheat-sheet "Kusto Cheat Sheet")
 
 **Mastering the Rasengan was hard for Naruto and he trained a lot so we will too**
-now that we know how to write a Kusto query, lets see what an ideal written query should look like, check [here](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/best-practices"here")
+now that we know how to write a Kusto query, lets see what an ideal written query should look like, check [here](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/best-practices "here")
 
 [Setup a free Azure Data Explorer](https://aka.ms/kustofree "Setup a free Azure Data Explorer")
 - Sign in and create a free Cluster
