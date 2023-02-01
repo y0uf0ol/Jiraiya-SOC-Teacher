@@ -168,7 +168,6 @@ Hit me up, when you are ready for this. You will get a Login for my testing Env.
 
 ## Key Points of the Week:
 - Follow the Learningpath
-- 
 # Week 11
 [SC-200 Exam Week](https://learn.microsoft.com/de-de/certifications/exams/sc-200 'SC-200 Exam Week')
 
