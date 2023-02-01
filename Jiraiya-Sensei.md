@@ -100,7 +100,11 @@ Hit me up, when you are ready for this. You will get a Login for my testing Env.
 # Week 5
 Sentinel Week
 
-Microsofts Cloud Native SIEM/SOAR
+[What is a SIEM](https://tryhackme.com/room/introtosiem "What is a SIEM")
+[Get Started with Sentinel](https://www.youtube.com/watch?v=4BAG80PWR4Y "Get Started with Sentinel")
+[Investigate incidents with Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/investigate-cases?wt.mc_id=SecNinja_sentinelninjatraining "Investigate incidents with Microsoft Sentinel")
+Create a testing and development Tenant
+
 
 
 ## Key Points of the Week:
@@ -132,11 +136,19 @@ Networking Crash Course
 The Defender Ninja Week Number 2
 
 **Defender for Office 365**
+- [Defender for Office 365 Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/become-a-microsoft-defender-for-office-365-ninja-june-2022/ba-p/2187392 "Defender for Office 365 Ninja Training")
+- Finish the rest of the remaining course
+
 **Defender for Identity**
+- [Defender for Identity Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-identity-ninja-training/ba-p/2117904 "Defender for Identity Ninja Training")
+- Finish the rest of the remaining course
+
 **Defender for Endpoint**
+- [Defender for Endpoint Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647#_Toc45281200 "Defender for Endpoint Ninja Training")
+- Finish the rest of the remaining course
 
 ## Key Points of the Week:
-
+- Gain adv. knowledge about the Defender Products
 # Week 8
 Analyst Workflow and Mindset
 
