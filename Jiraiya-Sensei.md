@@ -27,7 +27,7 @@ And don't get this wrong, you don't have to finish this in week 1, watch it thro
 
 ## Key Points of the Week:
 - get started and get comfortable
-- checkout the the team :)
+- checkout the team :)
 - refresh or learn a thing or two with the provided content
 - and be excited for week 2
 
