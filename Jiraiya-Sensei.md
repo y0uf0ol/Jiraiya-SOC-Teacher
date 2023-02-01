@@ -93,17 +93,17 @@ The Defender Ninja Week Number 1
 Training Scenario Number 1
 
 Hit me up, when you are ready for this. You will get a Login for my testing Env. (INTERNS ONLY SRY)
-
+- [Scenario](https://github.com/y0uf0ol/Jiraiya-SOC-Teacher/blob/main/Training%20Resources/Week%204/Scenario.md "Scenario")
 
 ## Key Points of the Week:
 
 # Week 5
 Sentinel Week
 
-[What is a SIEM](https://tryhackme.com/room/introtosiem "What is a SIEM")
-[Get Started with Sentinel](https://www.youtube.com/watch?v=4BAG80PWR4Y "Get Started with Sentinel")
-[Investigate incidents with Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/investigate-cases?wt.mc_id=SecNinja_sentinelninjatraining "Investigate incidents with Microsoft Sentinel")
-Create a testing and development Tenant
+- [What is a SIEM](https://tryhackme.com/room/introtosiem "What is a SIEM")
+- [Get Started with Sentinel](https://www.youtube.com/watch?v=4BAG80PWR4Y "Get Started with Sentinel")
+- [Investigate incidents with Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/investigate-cases?wt.mc_id=SecNinja_sentinelninjatraining "Investigate incidents with Microsoft Sentinel")
+- Create a testing and development Tenant
 
 
 
