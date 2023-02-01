@@ -104,6 +104,7 @@ Sentinel Week
 - [Get Started with Sentinel](https://www.youtube.com/watch?v=4BAG80PWR4Y "Get Started with Sentinel")
 - [Investigate incidents with Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/investigate-cases?wt.mc_id=SecNinja_sentinelninjatraining "Investigate incidents with Microsoft Sentinel")
 - Create a testing and development Tenant
+    - [Guide](https://github.com/y0uf0ol/Jiraiya-SOC-Teacher/blob/main/Training%20Resources/Week%205/Guide_for_perfect_testing_tenant.md "Guide")
 
 
 
@@ -157,7 +158,7 @@ Analyst Workflow and Mindset
 Training Scenario Number 2
 
 Hit me up, when you are ready for this. You will get a Login for my testing Env.(INTERNS ONLY SRY)
-
+- [Scenario](https://github.com/y0uf0ol/Jiraiya-SOC-Teacher/blob/main/Training%20Resources/Week%209/Scenario.md "Scenario")
 
 ## Key Points of the Week:
 # Week 10
@@ -187,3 +188,4 @@ Hit me up, when you are ready for this. You will get a Login for my testing Env.
 End Challenge
 
 Hit me up, when you are ready for this. You will get a Login for my testing Env.(INTERNS ONLY SRY)
+- [Scenario](https://github.com/y0uf0ol/Jiraiya-SOC-Teacher/blob/main/Training%20Resources/Week%2013/Scenario.md "Scenario")
