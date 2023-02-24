@@ -6,14 +6,12 @@
 # This is Work in progress
 
 # Week 1
-Bone dry Theory
-This will suck but, will help us both in the long run.
+commences with an essential aspect of learning - the bone dry theory. While it may seem tedious and unenjoyable, mastering this fundamental knowledge will undoubtedly serve as a solid foundation for the learning journey ahead.
 
 **Basic Security Refresher:**
 [Professor Messer Sec+ Guide](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/ "Professor Messer Sec+ Guide")
 
-This is a good refresher in all the Security related Topics that will potential pop up. And as a bonus, it will prepare you very well for the Exam too.
-And don't get this wrong, you don't have to finish this in week 1, watch it through the weeks progress. 
+This resource provides a comprehensive refresher on various security-related topics that may potentially arise. As an added benefit, it also serves as an effective preparation tool for examinations. It is noteworthy that completing the material in one week is not mandatory; rather, it can be watched and progressed through at a suitable pace.
 
 **TryHackMe**
 - Create a Free [TryHackMe](https://tryhackme.com/ "TryHackMe") Account
@@ -25,11 +23,11 @@ And don't get this wrong, you don't have to finish this in week 1, watch it thro
 - Work through this [Training](https://app.letsdefend.io/training/lessons/it-security-basis-for-corporates "Training") If you think you need a refresher on general Security Stuff.
 
 
-## Key Points of the Week:
-- get started and get comfortable
-- checkout the team :)
-- refresh or learn a thing or two with the provided content
-- and be excited for week 2
+## Key takeaways for the week:
+- Begin by establishing a solid foundation and familiarize yourself with the material.
+- Familiarize yourself with the team and their roles.
+- Utilize the provided content to brush up on your knowledge or learn new things.
+- Look forward to the upcoming week with enthusiasm.
 
 # Week 2
 A glince of something practical.
@@ -37,11 +35,11 @@ A glince of something practical.
 **KQL**
 - Learning Kusto
     - [Write your first Query](https://learn.microsoft.com/en-us/training/modules/write-first-query-kusto-query-language/ "Write your first Query")
-- To make learning a new Query Language a bit easier, here is a Cheat Sheet that should help you on the way
+- To facilitate the process of learning a new Query Language, we have provided a helpful Cheat Sheet that can assist you in your studies.
     - [Kusto Cheat Sheet](https://www.mbsecure.nl/blog/2019/12/kql-cheat-sheet "Kusto Cheat Sheet")
 
 **Mastering the Rasengan was hard for Naruto and he trained a lot so we will too**
-now that we know how to write a Kusto query, lets see what an ideal written query should look like, check [here](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/best-practices "here")
+Now that we have acquired the knowledge of writing a Kusto query, let us observe the characteristics of an ideally written query. Please refer to the following resource for guidance. [here](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/best-practices "here")
 
 [Setup a free Azure Data Explorer](https://aka.ms/kustofree "Setup a free Azure Data Explorer")
 - Sign in and create a free Cluster
@@ -56,38 +54,38 @@ Once again we got to my favorite site LetsDefend. [Here](https://app.letsdefend.
 [Phishing Email Analysis](https://app.letsdefend.io/training/lessons/phishing-email-analysis "Phishing Email Analysis")
 
 ## Key Points of the Week:
-- get used to Kusto
-- Refresh your Windows Knowledge
-- learn to use Data Explorer
-- save the Cheat Sheet 
-- progress with Sec +
+- Familiarize yourself with Kusto query language
+- Review and refresh your Windows knowledge
+- Learn how to use Data Explorer
+- Save the provided Cheat Sheet for future reference
+- Continue making progress in studying for the Sec+ certification
 
 # Week 3
 The Defender Ninja Week Number 1
 
 **Defender for Office 365**
 - [Defender for Office 365 Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/become-a-microsoft-defender-for-office-365-ninja-june-2022/ba-p/2187392 "Defender for Office 365 Ninja Training")
-- The Fundamentals Part is the Important one for this Week
+- The fundamental part is of utmost importance for this week.
 
 **Defender for Identity**
 - [Defender for Identity Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-identity-ninja-training/ba-p/2117904 "Defender for Identity Ninja Training")
-- The Fundamentals Part is the Important one for this Week
+- The fundamental part is of utmost importance for this week.
 
 **Defender for Endpoint**
 - [Defender for Endpoint Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647#_Toc45281200 "Defender for Endpoint Ninja Training")
-- Security Operations Fundamentals is important for us to start. Work through it and learn it to love, you will spend a good amount of time in that portal :)
+- It is crucial for us to start with Security Operations Fundamentals. Dedicate ample time to work through it diligently, as it is foundational knowledge that will be frequently utilized in this field. :)
 
 **Azure AD Identity Protection**
-- Important Part here is to know what it is,license differences are and operate it:
+- An essential aspect to consider here is gaining a comprehensive understanding of what it entails, the variances in licensing, and how to effectively operate it.:
     - [What is Identity Protection?](https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection "What is Identity Protection?")
     - [How To: Investigate risk](https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-investigate-risk "How To: Investigate risk")
     - [Remediate risks and unblock users](https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-remediate-unblock "Remediate risks and unblock users")
 
 
-## Key Points of the Week:
-- Learning about all Defender Products
-- Learning how to do basic Operations 
-- Learning about Azure AD Identity Protection
+## Key points for the week:
+- Familiarize yourself with all Defender products
+- Learn the basics of security operations
+- Study Azure AD Identity Protection
 
 # Week 4
 Training Scenario Number 1
